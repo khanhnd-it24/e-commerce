@@ -1,4 +1,4 @@
-module github.com/khanhnd-it24/gobase
+module github.com/khanhnd-it24/e-commerce/pkg
 
 go 1.21
 

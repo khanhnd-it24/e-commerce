@@ -2,7 +2,7 @@ package logger
 
 import (
 	"context"
-	errutil "github.com/khanhnd-it24/gobase/errors/util"
+	errutil "github.com/khanhnd-it24/e-commerce/pkg/errors/util"
 	"github.com/rs/zerolog"
 	"os"
 )

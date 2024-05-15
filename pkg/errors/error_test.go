@@ -3,7 +3,7 @@ package errors_test
 import (
 	stderrors "errors"
 	"fmt"
-	"gobase/errors"
+	"github.com/khanhnd-it24/e-commerce/pkg/errors"
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"
 	"net/http"
